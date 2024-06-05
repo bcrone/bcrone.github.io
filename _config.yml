@@ -12,7 +12,7 @@ title                    : "Brad Crone, PhD"
 title_separator          : "-"
 name                     : &name "Brad Crone"
 description              : &description "Personal Webpage of Brad Crone, PhD"
-url                      : https://bcrone.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://bcrone.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bcrone/bcrone.github.io"
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
