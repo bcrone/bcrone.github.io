@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "bcrone.png"
   name             : "Brad Crone, PhD"
-  pronouns         : #"she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  pronouns         : #  
+  bio              : #
   location         : "Michigan, USA"
-  employer         : #"Red Brick University"
-  uri              : # URL
+  employer         : #
+  uri              : #
   email            : "crone.brad@gmail.com" 
 
   # Academic websites
